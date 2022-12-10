@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>主页</title>
+<title>index</title>
 	<link rel="apple-touch-icon" type="image/png" href="https://cpwebassets.codepen.io/assets/favicon/apple-touch-icon-5ae1a0698dcc2402e9712f7d01ed509a57814f994c660df9f7a952f3060705ee.png">
 <meta name="apple-mobile-web-app-title" content="CodePen">
 
@@ -294,9 +294,9 @@ body {
 </div>
 
 <div class="topnav">
-  <a href="index"class>主页</a>
+  <a href="index.html"class>主页</a>
 	
-  <a href="video"class>视频</a>
+  <a href="video.html"class>视频</a>
 	
   <a href="#" style="float:right">个人说明</a>
 </div>
